@@ -1,0 +1,128 @@
+.gmr-edit-section {
+    border-bottom: aliceblue 2px solid;
+    padding: 1%;
+}
+
+.gmr-edit-ServiceProvider {
+    border: none;
+    font-size: xxx-large;
+    color: #50ccff;
+}
+
+.gmr-section-title-edit {
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.gmr-edit-container {
+    position: relative;
+}
+
+.gmr-save-changes {
+    margin-left:1em;
+
+}
+
+.gmr-edit-header {
+    margin-top: 10px;
+
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center;
+}
+.gmr-edit-header:hover {
+    background: #80808017;
+}
+
+.fieldsection {
+    position: relative;
+    padding:2% 0%;
+}
+/* --------------------- */
+
+input[type="number"] {
+    width: 2.5em;
+    height: 31px;
+}
+
+input {
+    width:100%;
+    padding-left:7px;
+}
+
+input[name="sourceName"] {
+    width: 50%;
+}
+
+select {
+    height: 2em;
+}
+
+.moreright {
+    background: #50ccff;
+    border-color: #50ccff;
+}
+
+.moreright:hover {
+    background: rgb(70, 209, 255);
+    border: rgb(70, 209, 255) 1px solid;
+}
+
+.bluebackground {
+    background: #50ccff;
+    border-color: #50ccff;
+}
+
+.form-check-input {
+    border: 1.5px solid #50ccff;
+}
+
+.form-switch {
+    padding-left: 3.5em;
+}
+
+.contact-delete {
+    color: grey;
+    right: 0px;
+    position: absolute;
+    top: -10px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.test {
+    visibility: hidden;
+}
+
+select[name="dataSinceYear"], select[name="expectedDelivery"]  {
+    margin-left: 5px;
+}
+
+input, select {
+    border: 1px solid #50CCFF;
+    border-radius: 5px;
+}
+
+
+.add-contact {
+    background: white;
+    border-radius: 17px;
+    color: #50CCFF;
+    cursor: pointer;
+}
+
+
+div.col-4{
+    text-transform: uppercase;
+    color: #969696;
+}
+
+.button-container {
+    justify-content: center;
+    display: flex;
+    width: 12%;
+    position: absolute;
+    right: 0;
+    top: 34px;
+}

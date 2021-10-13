@@ -1,0 +1,60 @@
+.form-header {
+    display: flex;
+    justify-content: start;
+}
+
+
+select.form-control {
+    height: 38px;
+}
+
+.button-clicked {
+    background: lightblue;
+}
+
+.padding-top-row {
+    padding-top: 14px !important;
+}
+
+.distribution-date {
+    margin-left: 10px;
+}
+
+/* .bi-check-circle {
+    font-size: 25px;
+    color: #50ccff;
+    cursor: pointer;
+}
+
+.bi-check-circle:hover {
+    opacity: .6;
+} */
+
+.check-unclicked {
+    color: grey;
+}
+
+.freqClicked {
+    background: lightgrey;
+}
+
+.form-check-input {
+    font-size: 20px;
+    margin-top: 7px;
+}
+
+.bi-check-all {
+    cursor: pointer;
+    font-size: 18px;
+    margin-left: .25em;
+}
+
+.select-all {
+    color: #50ccff;
+
+}
+
+.unselect-all {
+    color: black;
+
+}

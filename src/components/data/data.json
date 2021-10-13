@@ -1,0 +1,26 @@
+{
+    "Response": [
+      {
+        "name": "SERVICE PROVIDER",
+        "selector": "ServiceProvider",
+        "sortable": true,
+        "width": "33%"
+      },
+      {
+        "name": "SOURCE TYPE",
+        "selector": "SourceType",
+        "sortable": true,
+        "width": "33%"
+      },
+      {
+        "name": "FREQUENCY",
+        "selector": "Frequency",
+        "sortable": true,
+        "width": "33%"
+      }
+
+      
+    ]
+      
+  }
+  

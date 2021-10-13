@@ -1,0 +1,35 @@
+
+
+
+
+.gmr-login-backgroundimage {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: rgb(48,116,194);
+    background: linear-gradient(25deg, rgba(48,116,194,1) 38%, rgba(80,204,255,1) 72%);
+    
+    
+}
+
+.gmr-login-modal {
+    text-align: center;
+    padding: 2%;
+    border-radius: 10px;
+    background: white;
+}
+
+.gmr-login-modal h5 {
+    cursor: pointer; 
+}
+
+
+
+.gmr-login-modal img {
+    display: block;
+}
+
+.login-text:hover {
+    color:lightblue;
+}
